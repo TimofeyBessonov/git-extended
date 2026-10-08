@@ -1,9 +1,9 @@
 {
   "name": "git-extended",
   "version": "1.0.0",
-  "description": "Gir repo for educational purposes",
+  "description": "Git repo for educational purposes",
   "main": "index.js",
-  "repository": "git@github.com:TimofeyBessonov/git-extended.git,
+  "repository": "git@github.com:TimofeyBessonov/git-extended.git",
   "author": "Timofey Bessonov mamkar228@yandex.ru",
   "license": "CC-BY-4.0",
   "config": {
